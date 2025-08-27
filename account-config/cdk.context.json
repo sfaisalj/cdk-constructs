@@ -1,0 +1,17 @@
+{
+    "12313123":{
+        "stage":"dev",
+        "appHostedZone": "dev.domain.com",
+        "appHostedZoneId": "Z12312AFWASD"
+    },
+    "32323221":{
+        "stage":"qa",
+        "appHostedZone": "qa.domain.com",
+        "appHostedZoneId": "Z123ASDASDASD"
+    },
+    "32312312":{
+        "stage":"beta",
+        "appHostedZone": "beta.domain.com",
+        "appHostedZoneId": "Z123ASDASDASD"
+    }
+}
